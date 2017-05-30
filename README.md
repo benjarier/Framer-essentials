@@ -1,5 +1,5 @@
 # framer-essentials
-A simple framer module containing essential functions useful in most projects.
+A simple framer module containing essential functions useful in most projects. It will be updated with other useful functions. Feel free to add or suggest new one 😀
 
 ## Installation
 1. Download the `essentials.coffee` file
